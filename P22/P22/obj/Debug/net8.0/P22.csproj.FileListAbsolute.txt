@@ -1,0 +1,14 @@
+C:\gitProjects\C#\P22\P22\bin\Debug\net8.0\P22.exe
+C:\gitProjects\C#\P22\P22\bin\Debug\net8.0\P22.deps.json
+C:\gitProjects\C#\P22\P22\bin\Debug\net8.0\P22.runtimeconfig.json
+C:\gitProjects\C#\P22\P22\bin\Debug\net8.0\P22.dll
+C:\gitProjects\C#\P22\P22\bin\Debug\net8.0\P22.pdb
+C:\gitProjects\C#\P22\P22\obj\Debug\net8.0\P22.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitProjects\C#\P22\P22\obj\Debug\net8.0\P22.AssemblyInfoInputs.cache
+C:\gitProjects\C#\P22\P22\obj\Debug\net8.0\P22.AssemblyInfo.cs
+C:\gitProjects\C#\P22\P22\obj\Debug\net8.0\P22.csproj.CoreCompileInputs.cache
+C:\gitProjects\C#\P22\P22\obj\Debug\net8.0\P22.dll
+C:\gitProjects\C#\P22\P22\obj\Debug\net8.0\refint\P22.dll
+C:\gitProjects\C#\P22\P22\obj\Debug\net8.0\P22.pdb
+C:\gitProjects\C#\P22\P22\obj\Debug\net8.0\P22.genruntimeconfig.cache
+C:\gitProjects\C#\P22\P22\obj\Debug\net8.0\ref\P22.dll
