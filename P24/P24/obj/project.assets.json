@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\gitProjects\\C#\\P24\\P24\\P24.csproj",
+      "projectUniqueName": "C:\\gitProjects\\CSharp\\P24\\P24\\P24.csproj",
       "projectName": "P24",
-      "projectPath": "C:\\gitProjects\\C#\\P24\\P24\\P24.csproj",
+      "projectPath": "C:\\gitProjects\\CSharp\\P24\\P24\\P24.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\gitProjects\\C#\\P24\\P24\\obj\\",
+      "outputPath": "C:\\gitProjects\\CSharp\\P24\\P24\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
