@@ -8,5 +8,5 @@ The purpose of this repository is to collect the solutions written in C# of prob
 
 
 # Current status:
-P21 - P23
+P21 - P24
 
